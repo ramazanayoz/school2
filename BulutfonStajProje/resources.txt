@@ -1,0 +1,15 @@
+ https://gobyexample.com/regular-expressions
+ https://github.com/StefanSchroeder/Golang-Regex-Tutorial/blob/master/01-chapter1.markdown
+ https://stackoverflow.com/questions/31487694/how-can-i-convert-string-to-integer-in-golang
+int64 çevirme http://programming.guide/go/convert-string-to-int64.html
+tip öğrenme http://www.golangprograms.com/how-can-i-convert-the-string-to-boolean-integer-or-float-in-golang.html 
+How to index characters in a Golang string?	https://stackoverflow.com/questions/15018545/how-to-index-characters-in-a-golang-string
+for döngü https://tour.golang.org/flowcontrol/3
+else if https://golangbot.com/if-statement/
+golang convert input to integer https://stackoverflow.com/questions/38777961/converting-string-input-to-float64-using-parsefloat-in-golang   feetFloat, _ := strconv.ParseFloat(strings.TrimSpace(text), 64)   int için   feetFloat, _ := strconv.ParseInt(strings.TrimSpace(text), 10, 64)
+html golang login form https://www.youtube.com/watch?v=8MApY-88pWE
+multiple string new line https://stackoverflow.com/questions/7933460/how-do-you-write-multiline-strings-in-go 
+go syntax https://blog.golang.org/gos-declaration-syntax
+html max lenght https://www.w3schools.com/tags/tryit.asp?filename=tryhtml_input_maxlength
+Change text from “Submit” on input tag  https://stackoverflow.com/questions/14007613/change-text-from-submit-on-input-tag
+json http://www.alexedwards.net/blog/golang-response-snippets
